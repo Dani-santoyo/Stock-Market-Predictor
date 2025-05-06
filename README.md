@@ -6,8 +6,9 @@ Predicting Stock Market Direction and Magnitude with Machine Learning Algorithms
 **Daniel Santoyo**  
 Built the XGBoost classification and regression models. Performed multiple rounds of tuning, and achieved the best model performance overall.
 
-**Pine Nguyen**  
-Focused on the LSTM classification model. Preprocessed features, structured time-series sequences, and evaluated model accuracy using validation metrics and confusion matrices.
+**Pine Nguyen**
+Focused on the LSTM classification model. Handled data preprocessing, structured time-series sequences, and tuned hyperparameters using Hyperband. Evaluated performance with validation accuracy, confusion matrices, and recall to improve directional prediction.
+
 
 **Thanh Tran**  
 Developed the LSTM regression model. Trained the model on close price sequences and proposed a hybrid trend classification method using regression output ranges.
