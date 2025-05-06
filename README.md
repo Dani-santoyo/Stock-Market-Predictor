@@ -7,6 +7,7 @@ Predicting Stock Market Direction and Magnitude with Machine Learning Algorithms
 Built the XGBoost classification and regression models. Performed multiple rounds of tuning, and achieved the best model performance overall.
 
 **Pine Nguyen**
+
 Focused on the LSTM classification model. Handled data preprocessing, structured time-series sequences, and tuned hyperparameters using Hyperband. Evaluated performance with validation accuracy, confusion matrices, and recall to improve directional prediction.
 
 
