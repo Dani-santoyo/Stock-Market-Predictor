@@ -4,7 +4,7 @@ Predicting Stock Market Direction and Magnitude with Machine Learning Algorithms
 ## Team
 
 **Daniel Santoyo**  
-Built the XGBoost classification and regression models. Led feature engineering (e.g., MACD, momentum indicators), performed multiple rounds of tuning, and achieved the best model performance overall.
+Built the XGBoost classification and regression models. Performed multiple rounds of tuning, and achieved the best model performance overall.
 
 **Pine Nguyen**  
 Focused on the LSTM classification model. Preprocessed features, structured time-series sequences, and evaluated model accuracy using validation metrics and confusion matrices.
